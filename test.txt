@@ -4,4 +4,8 @@
 33333333
 test conflict
 test conflict 2
+---------------------------
 test COMMIT BLOCK
+---------------------------
+TEST2 COMMIT BLOCK
+TEST2 COMMIT BLOCK
