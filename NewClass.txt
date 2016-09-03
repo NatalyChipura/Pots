@@ -1,1 +1,6 @@
-public NewClass{}
+public NewClass() {
+	public NewClass():void
+	{
+		
+	}
+}
